@@ -1,0 +1,12 @@
+C:\Users\telan\source\repos\WarehouseManagementSystem\IdentityServer.Infrastructure\bin\Debug\net6.0\IdentityServer.Infrastructure.deps.json
+C:\Users\telan\source\repos\WarehouseManagementSystem\IdentityServer.Infrastructure\bin\Debug\net6.0\IdentityServer.Infrastructure.dll
+C:\Users\telan\source\repos\WarehouseManagementSystem\IdentityServer.Infrastructure\bin\Debug\net6.0\IdentityServer.Infrastructure.pdb
+C:\Users\telan\source\repos\WarehouseManagementSystem\IdentityServer.Infrastructure\obj\Debug\net6.0\IdentityServer.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\telan\source\repos\WarehouseManagementSystem\IdentityServer.Infrastructure\obj\Debug\net6.0\IdentityServer.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\telan\source\repos\WarehouseManagementSystem\IdentityServer.Infrastructure\obj\Debug\net6.0\IdentityServer.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\telan\source\repos\WarehouseManagementSystem\IdentityServer.Infrastructure\obj\Debug\net6.0\IdentityServer.Infrastructure.AssemblyInfo.cs
+C:\Users\telan\source\repos\WarehouseManagementSystem\IdentityServer.Infrastructure\obj\Debug\net6.0\IdentityServer.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\telan\source\repos\WarehouseManagementSystem\IdentityServer.Infrastructure\obj\Debug\net6.0\IdentityServer.Infrastructure.dll
+C:\Users\telan\source\repos\WarehouseManagementSystem\IdentityServer.Infrastructure\obj\Debug\net6.0\refint\IdentityServer.Infrastructure.dll
+C:\Users\telan\source\repos\WarehouseManagementSystem\IdentityServer.Infrastructure\obj\Debug\net6.0\IdentityServer.Infrastructure.pdb
+C:\Users\telan\source\repos\WarehouseManagementSystem\IdentityServer.Infrastructure\obj\Debug\net6.0\ref\IdentityServer.Infrastructure.dll

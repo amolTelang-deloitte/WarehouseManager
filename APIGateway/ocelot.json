@@ -1,0 +1,44 @@
+
+{
+  "Routes": [
+    {
+      "UpstreamPathTemplate": "/api/auth",
+      "UpstreamHttpMethod": [ "Post" ],
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5280
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Customer"
+    },
+    {
+      "UpstreamPathTemplate": "/api/order",
+      "UpstreamHttpMethod": [ "Post", "Get" ],
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5225
+        }
+      ],
+      "DownstreamPathTemplate": "/api/order"
+    },
+    {
+      "UpstreamPathTemplate": "/api/pallet",
+      "UpstreamHttpMethod": [ "Post","Get","Put" ],
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5225
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Customer"
+    }
+  ],
+  "GlobalConfiguration": {
+
+  }
+}            
